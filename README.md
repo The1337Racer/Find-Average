@@ -1,3 +1,11 @@
+With this repository it shows how you can find the three
+averages of test score from three tests by using the python programming lanaguage. 
+The code shows how the three test scores get added together
+and then divided by three which then gives the user the 
+avaerage score over the three tests.
+
+
+
 # Find-Average
 #Finding an average
 # test1 , test2 and test3 variables.
